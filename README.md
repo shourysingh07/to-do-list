@@ -18,3 +18,5 @@ This is a simple ToDo list web application built using HTML, CSS, and JavaScript
 1. To add a task:
    - Type your task in the input field.
    - Press the Enter key or click the "Add Task" button.
+2. To delete a task:
+   - Click on the delete icon (hyphen) next to the task.
